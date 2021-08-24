@@ -1,5 +1,5 @@
 <div align="center">
-    <img align="center" alt="PlantManager" title="PlantManager" src="assets/logo.svg" />
+    <img align="center" alt="GithubWeb" title="Github Web" src="assets/logo.svg" />
 </div>
 
 <p align="center">
@@ -45,7 +45,7 @@ Follow the steps below
 
 ```bash
 # Install the dependencies
-$ yarn add
+$ npm install
 
 # Start the project
 $ yarn start
