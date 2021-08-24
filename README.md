@@ -1,6 +1,8 @@
 <div align="center">
-    <img align="center" alt="GithubWeb" title="Github Web" src="assets/logo.svg" />
+    <img align="center" alt="GithubWeb" title="Github Web" src="src/assets/logo.svg" />
 </div>
+
+##
 
 <p align="center">
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -21,7 +23,7 @@
 <br>
 
 <div align="center">
-  <img alt="githubPreview" src="assets/github.png">
+  <img alt="githubPreview" src="src/assets/github.png">
 </div>
 
 ---
@@ -38,7 +40,7 @@ This project was developed using the following technologies:
 Clone the project and access the folder
 
 ```bash
-$ git clone https://github.com/victortxc/plantmanager.git && cd plantmanager
+$ git clone https://github.com/victortxc/github_web.git && cd github_web
 ```
 
 Follow the steps below
@@ -55,13 +57,7 @@ $ yarn start
 
 App to always remember to water your plants 🌱
 
-This is a project developed during the **[Next Level Week](https://nextlevelweek.com/)**, presented by **[@Rocketseat](https://github.com/Rocketseat)**.
-
-## 🔖 Layout
-
-You can view the project layout through the links below:
-
--   [Layout](https://www.figma.com/file/IhQRtrOZdu3TrvkPYREzOy/PlantManager)
+This is a project developed during the **[Ignite](https://rocketseat.com.br/ignite)**, presented by **[@Rocketseat](https://github.com/Rocketseat)**.
 
 ## 📝 License
 
