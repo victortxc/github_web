@@ -8,7 +8,6 @@
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Getting started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-license">License</a>
 </p>
 
@@ -55,7 +54,7 @@ $ yarn start
 
 ## 💻 Project
 
-App to always remember to water your plants 🌱
+App to explore repositories on Github.
 
 This is a project developed during the **[Ignite](https://rocketseat.com.br/ignite)**, presented by **[@Rocketseat](https://github.com/Rocketseat)**.
 
